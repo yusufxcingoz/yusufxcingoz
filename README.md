@@ -24,7 +24,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufxcingoz&layout=compact&text_color=daf7dc&bg_color=FF0005)](https://github.com/devSouvik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufxcingoz&layout=compact&text_color=daf7dc&bg_color=D9CEC1)](https://github.com/devSouvik/github-readme-stats)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
