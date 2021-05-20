@@ -19,7 +19,7 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufxcingoz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=679DFA&icon_color=2234AE&text_color=679DFA&bg_color=7552E3" alt="Yusuf Cingoz's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufxcingoz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=679DFA&icon_color=F8AF2C&text_color=679DFA&bg_color=0D2E41" alt="Yusuf Cingoz's Github Stats">
 
 </br>
 
