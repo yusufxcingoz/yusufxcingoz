@@ -12,7 +12,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp;  HTML | CSS | JavaScript | Bootstrap 
+- 🌐 &nbsp;  HTML | CSS | JavaScript | Bootstrap | Tailwind.css
 - 🛢 &nbsp; React.js | Next.js | Node.js
 - 🔧 &nbsp; Visual Studio code | WebStorm | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop 
