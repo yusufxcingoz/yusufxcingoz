@@ -1,4 +1,3 @@
-### Hi there 👋
 <h2> Hey there! I'm Yusuf. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="500"/>
 
