@@ -3,7 +3,6 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning React Native Mobile Development.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Automotive Engineering.
 - 💼 &nbsp; Front-end web developer.
